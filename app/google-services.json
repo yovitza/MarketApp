@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092474424034",
+    "project_id": "marketapp-6ec5e"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092474424034:android:b510084b3fcdcd54",
+        "android_client_info": {
+          "package_name": "com.example.yovitza.marketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092474424034-hbrkttrk8dre087abro0p4h10ivp2skt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1092474424034-gnia85mtvj3ktu49liako9ep4pfmkkk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yovitza.marketapp",
+            "certificate_hash": "7b0653aeb5d1f9402eaebd790abb0c91d0a686bf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChC6BlXCph6nBDd13unYkCYfIJHFL70wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
